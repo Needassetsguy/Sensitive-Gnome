@@ -1,0 +1,18 @@
+"Sensitive Gnome"
+{
+	"icon"		"entities/sent_sensitive_gnome"
+	"id"		"9823"
+	"parent"	"0"
+	"expanded"	"0"
+	"name"		"Sensitive Gnome"
+
+	"1"
+	{
+		"type"		"entity"
+		"classname"	"sent_sensitive_gnome"
+		"nicename"	"Sensitive Gnome"
+		"icon"		"entities/sent_sensitive_gnome"
+		"info"		"This sensitive gnome causes ultimate destruction, don't spawn this bitch."
+		"author"	"Federal Crime Committer"
+	}
+}

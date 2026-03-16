@@ -1,0 +1,10 @@
+ENT.Type 		= "anim"
+ENT.Base 		= "base_gmodentity"
+ENT.PrintName	= "Sensitive Gnome"
+ENT.Category	= "Fun + Games"
+ENT.Spawnable	= true
+ENT.AdminOnly	= false
+ENT.Author		= "Federal Crime Committer"
+ENT.Contact		= ""
+ENT.Purpose		= "This sensitive gnome causes ultimate destruction, don't spawn this bitch."
+ENT.Instructions = "Spawn him. Press E to pick up. Press E again to put down. Run."

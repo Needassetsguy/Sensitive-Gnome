@@ -1,0 +1,11 @@
+{
+	"title": "Sensitive Gnome",
+	"description": "Don't pick him up. Seriously. Press E on Gnome Chompski and face the consequences — explosions, earthquakes, prop hailstorms, and a massive tornado that consumes everything. Delete the entity to end the chaos. For server owners and chaos enthusiasts.",
+	"type": "ServerContent",
+	"tags": ["Fun"],
+	"ignore": [
+		"*.psd",
+		"*.vcproj",
+		"*.svn"
+	]
+}
